@@ -1,0 +1,2 @@
+# junk
+berkas subtitle dari 

@@ -1,5 +1,5 @@
 # Berkas
-Berkas daftar anime garapan https://ambivalenfs.wordpress.com/ beserta tautan blog dan tautan unduh subtitlenya
+Berkas daftar anime garapan https://ambivalenfs.wordpress.com/ beserta tautan garapan tersebut di blog dan tautan unduh subtitlenya
 
 ## Daftar Rilisan:
 <table>

@@ -13,10 +13,10 @@ Berkas daftar anime garapan https://ambivalenfs.wordpress.com/ beserta tautan ga
  </thead>
 <tbody>
  <tr>
-  <td>Girl Gaku ~Hijiri Girl Square Gakuin~</td>
-  <td>04/12</td>
-  <td><a href="https://ambivalenfs.wordpress.com/category/garugaku/">Tautan</td>
-  <td><a href="https://github.com/ambivalen-fs/junk/tree/master/Garugaku">Tautan</td>
+  <td>PriPara</td>
+  <td>001/140</td>
+  <td><a href="https://ambivalenfs.wordpress.com/category/pripara/">Tautan</td>
+  <td><a href="https://github.com/ambivalen-fs/junk/tree/master/PriPara">Tautan</td>
  </tr>
 </tbody>
 </table>
